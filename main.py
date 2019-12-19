@@ -1,9 +1,7 @@
 
 
 def main(msg):
-    #Another Comment
-	#Adding the second commment
-	#Print a Message
+    #No longer need comment
     print(msg)
 
 main("Hello People")
